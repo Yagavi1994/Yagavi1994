@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I'm an aspiring **Full Stack Developer** with a pa
   ![Agile](https://img.shields.io/badge/-Agile-61DAFB?style=flat&logo=agile&logoColor=black)
 
 - **Other Skills**:
-  - **JSON**
   - Responsive Web Design  
   - UI/UX Design Principles  
   - Problem-Solving  
