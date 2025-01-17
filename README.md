@@ -52,7 +52,7 @@ maintainable and re-usable code. Experience building responsive websites using H
 ### 5. [Memories](https://memories-frontend-895c7e867e2e.herokuapp.com/)
 - **Description**: A social media website created to share the moments and milestones of children.
 - **Technologies**: React, Python (Django), HTML5, CSS3, React Bootstrap, JavaScript, JSX
-- **GitHub**: [Memories]((https://github.com/Yagavi1994/memories))
+- **GitHub**: [Memories](https://github.com/Yagavi1994/memories)
 
 ## 🏆 Achievements
 - **Hackathon Participant**: Collaborated with a team to create a personalized date idea generator.  
