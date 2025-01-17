@@ -8,7 +8,7 @@ maintainable and re-usable code. Experience building responsive websites using H
 - 📍 Based in Bedford, UK  
 - 💼 Transitioning from a background in **Human Resources** to a passionate **Full Stack Developer**  
 - 👩‍💻 Eager to apply my technical skills and problem-solving abilities to create user-friendly and innovative software solutions.  
-- 💡 Currently pursuing a Full Stack Developer course at **Code Institute** with a focus on modern web development technologies.
+- 💡 Completed a Full Stack Developer course at **Code Institute** with a focus on modern web development technologies.
 
 ## 🛠 Skills & Tools
 
@@ -47,6 +47,11 @@ maintainable and re-usable code. Experience building responsive websites using H
 - **Description**: A blog designed to provide well-researched, easy-to-understand content for parents, covering topics from newborn care to teenage years.  
 - **Technologies**: Python (Django), HTML5, CSS3, Bootstrap, JavaScript, PostgreSQL  
 - **GitHub**: [Cradle Blog](https://github.com/Yagavi1994/Cradle)
+
+### 5. [Memories](https://memories-frontend-895c7e867e2e.herokuapp.com/)
+- **Description**: A social media website created to share the moments and milestones of children.
+- **Technologies**: React, Python (Django), HTML5, CSS3, React Bootstrap, JavaScript, JSX
+- **GitHub**: [Memories]((https://github.com/Yagavi1994/memories))
 
 ## 🏆 Achievements
 - **Hackathon Participant**: Collaborated with a team to create a personalized date idea generator.  
