@@ -1,6 +1,6 @@
 # Hi, I'm Yagavi Kannadhasan! 👋
 
-A Full Stack Developer recently qualified with a Diploma in Software Development from Code Institute. Presents ability to produce clean,
+A Full Stack Developer recently qualified with a Diploma from Code Institute. Presents ability to produce clean,
 maintainable and re-usable code. Experience building responsive websites using HTML, CSS, JavaScript & Python. Possesses good Problem Solving & Communication skills with a passion for creating intuitive and user-friendly applications. Looking to obtain an opportunity as a Junior Full Stack Developer that will allow me to build on my skills and pave the path for my career in the Software industry.
 
 ## 🚀 About Me
@@ -50,8 +50,8 @@ maintainable and re-usable code. Experience building responsive websites using H
 - **GitHub**: [Cradle Blog](https://github.com/Yagavi1994/Cradle)
 
 ### 5. [Memories](https://memories-frontend-895c7e867e2e.herokuapp.com/)
-- **Description**: A social media website created to share the moments and milestones of children.
-- **Technologies**: React, Python (Django), HTML5, CSS3, React Bootstrap, JavaScript, JSX
+- **Description**: Memories is a specialized social media platform designed exclusively for parents to securely share and preserve their children's cherished moments and milestones.
+- **Technologies**: React, Python (Django), HTML5, CSS3, React Bootstrap, JavaScript, JSX, PostgreSQL
 - **GitHub**: [Memories](https://github.com/Yagavi1994/memories)
 
 ## 🏆 Achievements
