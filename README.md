@@ -1,6 +1,6 @@
 # Hi, I'm Yagavi Kannadhasan! 👋
 
-Welcome to my GitHub profile! I'm a Full Stack Developer recently qualified with a Diploma in Software Development from Code Institute. Presents ability to produce clean,
+A Full Stack Developer recently qualified with a Diploma in Software Development from Code Institute. Presents ability to produce clean,
 maintainable and re-usable code. Experience building responsive websites using HTML, CSS, JavaScript & Python. Possesses good Problem Solving & Communication skills with a passion for creating intuitive and user-friendly applications. Looking to obtain an opportunity as a Junior Full Stack Developer that will allow me to build on my skills and pave the path for my career in the Software industry.
 
 ## 🚀 About Me
